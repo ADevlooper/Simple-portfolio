@@ -1,0 +1,127 @@
+html
+{
+    scroll-behavior:smooth;
+}
+body
+{
+	
+	background-color:rgb(26, 26, 26);
+}
+a.b
+{
+	text-decoration:none;
+	color:white;
+}
+div.main
+{
+	margin-right:30px;
+	margin-left:30px;
+	margin-top:30px;
+	margin-bottom:0px;
+	padding:10px;	
+    border-radius:30px 30px 0px 0px;
+    background-color:   rgb(242, 242, 242); 
+}
+div{
+	margin-bottom: 10px;
+}
+.name
+{
+	font-family:Rajdhani;
+	font-size:50;
+	
+}
+h3
+{
+	font-family:Rajdhani;
+	font-size:20;
+}
+Th
+{
+	font-family:Rajdhani;
+	background-color:rgb(204, 204, 204);
+}
+td
+{
+    font-family:Edu AU VIC WA NT Hand;
+}
+p
+{
+    font-family:Edu AU VIC WA NT Hand;
+}
+button{
+	font-family:Rajdhani;
+}
+small{
+	font-size: 30px;
+}
+
+.header{
+  background-color:rgb(204, 204, 204);
+  padding:10px;
+  border-radius:30px;
+}
+button{
+	text-decoration-color:white;
+	background-color:rgb(38, 38, 38);
+	border-radius:8px;    
+	border:0px;
+	padding:10px;
+	margin:5px;
+}
+
+.pic{
+	margin-top:50px;
+}
+div#footer{
+    margin-right:30px;
+    margin-left:30px;
+    margin-top:0px;
+    margin-bottom:30px;
+    padding:10px;	
+    border-radius:0px 0px 30px 30px;
+    background-color:rgb(204, 204, 204);
+}
+p.footer_things{
+	font-family:Rajdhani;
+}
+pre.footer_things{
+	font-family:Rajdhani;
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+table.footer_things{
+    font-size:18px;
+}
+table.s{
+	font-size:14px;
+}
+
+table.skill{
+	margin-right:15px;
+	margin-top:5px;
+	margin-left:15px;
+	margin-bottom:15px;
+
+}
+div.skills{
+	text-align: left;
+	font-family: Rajdhani;
+	background-color:rgb(230, 230, 230);
+	margin:10px;
+	border-radius: 30px;
+	padding:5%;
+	font-size: 19px;
+
+}
+h4.sk{
+	font-family: Rajdhani;
+}
+ul.skills{
+	font-family:Edu AU VIC WA NT Hand;
+}
+dl{
+	font-family:Edu AU VIC WA NT Hand;
+}
